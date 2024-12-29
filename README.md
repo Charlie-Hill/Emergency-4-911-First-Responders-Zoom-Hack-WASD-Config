@@ -1,4 +1,4 @@
-# Emergency 4 / 911 First Responders Zoom Hack, Widescreen Fix & WASD keys
+# Emergency 4 / 911 First Responders Zoom Hack Modification, Widescreen Fix & WASD keys
 
 #### Config files for Emergency 4 / 911 First Responders to make the gameplay suit modern expectations.
 
