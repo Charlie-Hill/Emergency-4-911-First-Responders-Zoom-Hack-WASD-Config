@@ -2,6 +2,8 @@
 
 #### Config files for Emergency 4 / 911 First Responders to make the gameplay suit modern expectations.
 
+[Link to written steps for doing this process yourself manually](https://blog.charlie.onl/emergency-4-911-first-responders-zoom-hack-widescreen-fix)
+
 DETAILS: 
 ---------
 1.) 1920x1080 resolution
