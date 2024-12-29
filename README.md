@@ -13,10 +13,17 @@ DETAILS:
 
 INSTALL:
 ---------
-1.) Copy em4.cfg & Data folder into ROOT of your EM4/911 First Responders installation
+1.) Copy em4.cfg & Data folder into ROOT of your EM4/911 First Responders installation (see default paths below)
 
 2.) Start the game :)
 
 DEFAULT PATHS:
 ---------
 911 First Responders (STEAM): ```C:\Program Files (x86)\Steam\steamapps\common\911 First Responders```
+
+Emergency 4 (STEAM): ```C:\Program Files (x86)\Steam\steamapps\common\Emergency 4```
+
+Emergency 4 (RETAIL CD 32-BIT): ```C:\Program Files\Sixteen Tons Entertainment\Emergency 4```
+
+Emergency 4 (RETAIL CD 64-BIT): ```C:\Program Files (x86)\Sixteen Tons Entertainment\Emergency 4```
+
